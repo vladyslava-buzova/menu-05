@@ -1,7 +1,7 @@
 const menu = [
   {
     id: 1,
-    title: 'buttermilk pancakes',
+    title: 'buttermilk cakes',
     category: 'breakfast',
     price: 15.99,
     img: '/images/item-1.jpeg',
@@ -9,7 +9,7 @@ const menu = [
   },
   {
     id: 2,
-    title: 'diner double',
+    title: 'diner double eggs',
     category: 'lunch',
     price: 13.99,
     img: '/images/item-2.jpeg',
@@ -17,7 +17,7 @@ const menu = [
   },
   {
     id: 3,
-    title: 'godzilla milkshake',
+    title: 'godzilla pizza',
     category: 'shakes',
     price: 6.99,
     img: '/images/item-3.jpeg',
@@ -25,7 +25,7 @@ const menu = [
   },
   {
     id: 4,
-    title: 'country delight',
+    title: 'country panckakes',
     category: 'breakfast',
     price: 20.99,
     img: '/images/item-4.jpeg',
@@ -33,7 +33,7 @@ const menu = [
   },
   {
     id: 5,
-    title: 'egg attack',
+    title: 'Fish attack',
     category: 'lunch',
     price: 22.99,
     img: '/images/item-5.jpeg',
@@ -41,7 +41,7 @@ const menu = [
   },
   {
     id: 6,
-    title: 'oreo dream',
+    title: 'Meat dream',
     category: 'shakes',
     price: 18.99,
     img: '/images/item-6.jpeg',
@@ -49,7 +49,7 @@ const menu = [
   },
   {
     id: 7,
-    title: 'bacon overflow',
+    title: 'Salad overflow',
     category: 'breakfast',
     price: 8.99,
     img: '/images/item-7.jpeg',
@@ -57,7 +57,7 @@ const menu = [
   },
   {
     id: 8,
-    title: 'american classic',
+    title: 'Tost classic',
     category: 'lunch',
     price: 12.99,
     img: '/images/item-8.jpeg',
@@ -65,7 +65,7 @@ const menu = [
   },
   {
     id: 9,
-    title: 'quarantine buddy',
+    title: 'Burger buddy',
     category: 'shakes',
     price: 16.99,
     img: '/images/item-9.jpeg',
